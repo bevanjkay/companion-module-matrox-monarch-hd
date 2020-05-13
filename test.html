@@ -1,0 +1,19 @@
+<script>
+var stream_status = "N/A";
+var recording_status = "N/A";
+
+var string = "RECORD:ON,STREAM:RTMP,ON";
+var array = formatted.split(',');
+
+
+    record_status = array[0].split(':')[1];
+    stream_status = array[2];
+    // self.currentState.dynamicVariables.stream_status = array[2];
+
+console.log(array);
+console.log(record_status);
+console.log(stream_status);
+
+</script>
+
+<body></body>
