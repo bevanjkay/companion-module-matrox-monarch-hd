@@ -1,10 +1,10 @@
 {
-  "name": "matrox-monarch-custom",
+  "name": "matrox-monarch",
   "version": "1.0.0",
-  "description": "Matrox Monarch HD Custom",
+  "description": "Matrox Monarch HD",
   "manufacturer": "Matrox",
-  "product": "Custom Monarch HD",
-  "shortname": "Custom Monarch HD",
+  "product": "Monarch HD",
+  "shortname": "Monarch HD",
   "main": "index.js",
   "keywords": [
     "Stream",
