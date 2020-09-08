@@ -19,6 +19,10 @@
   "dependencies": {
     "request": "^2.88.0"
   },
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/bevanjkay/companion-module-matrox-monarch-hd-custom.git"
+	},
   "devDependencies": {
     "express": "^4.16.4",
     "express-basic-auth": "^1.1.6"
